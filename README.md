@@ -1,5 +1,4 @@
-### I am Ashley. A software engineer focused on security. I am committed to finding and fixing vulnerabilities in software at every stage of the Software Development Lifecycle. I enjoy studying and searching for ways an app might be manipulated by malicious (albeit clever) actors and closing security holes before they can be exploited. 
-
+### I am Ashley. A tech professional focused on security. 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ashley-barcel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
