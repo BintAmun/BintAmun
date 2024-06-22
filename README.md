@@ -1,4 +1,4 @@
-### I am Ashley. A tech professional focused on security. 
+### I am Ashley. A tech professional with a software and writing background focused on security. 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ashley-barcel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
